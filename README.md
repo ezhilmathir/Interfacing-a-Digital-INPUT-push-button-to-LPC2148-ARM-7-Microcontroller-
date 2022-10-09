@@ -115,7 +115,7 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 ### Kiel - Program  
 
-``
+```
 NAME:- EZHIL MATHI R 
 REG NO:- 212221230026
 
@@ -142,7 +142,7 @@ int main(void)
 }
 
 
-``
+```
 
 ### Output screen shots :
 
